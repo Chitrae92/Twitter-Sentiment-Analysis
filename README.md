@@ -2,4 +2,4 @@
 
  Developing emerging topic detector from Twitter streaming, and performing sentiment analysis on the related tweets to observe the public opinion on the emerging topic using stateful streaming technique.
  
- !alt[text] ()
+![alt text](https://github.com/Chitrae92/Twitter-Sentiment-Analysis/blob/master/Output%20Screenshot.PNG)
